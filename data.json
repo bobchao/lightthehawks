@@ -1,0 +1,93 @@
+{
+  "operators": [
+    {
+      "id": 1,
+      "operatorName": "29 張肇元",
+      "date": "2025-04-29",
+      "gameId": "65",
+      "opponent": "富邦悍將",
+      "outcome": "4:7 勝",
+      "specialEffects": 0,
+      "notes": "雞舍燈光師宗師，操作方式雖然略顯原始但創意滿分",
+      "pitcherStats": {
+        "innings": 1,
+        "plateAppearances": 3,
+        "pitchCount": 15,
+        "strikes": 11,
+        "hits": 0,
+        "homeRuns": 0,
+        "walks": 0,
+        "intentionalWalks": 0,
+        "hitByPitch": 0,
+        "strikeouts": 1,
+        "wildPitches": 0,
+        "balks": 0,
+        "runs": 0,
+        "earnedRuns": 0,
+        "errors": 0,
+        "era": 0.00,
+        "whip": 0.81
+      }
+    },
+    {
+      "id": 2,
+      "operatorName": "74 許育銘",
+      "date": "2025-05-03",
+      "gameId": "74",
+      "opponent": "中信兄弟",
+      "outcome": "1:2 勝",
+      "specialEffects": 2,
+      "notes": "宗師正在場上被三振，上場代班表現不俗",
+      "pitcherStats": {
+        "innings": 1,
+        "plateAppearances": 4,
+        "pitchCount": 16,
+        "strikes": 12,
+        "hits": 1,
+        "homeRuns": 0,
+        "walks": 0,
+        "intentionalWalks": 0,
+        "hitByPitch": 0,
+        "strikeouts": 1,
+        "wildPitches": 0,
+        "balks": 0,
+        "runs": 0,
+        "earnedRuns": 0,
+        "errors": 0,
+        "era": 0.00,
+        "whip": 0.84
+      }
+    },
+    {
+      "id": 3,
+      "operatorName": "85 黃子豪",
+      "date": "2025-05-06",
+      "gameId": "80",
+      "opponent": "味全龍",
+      "outcome": "2:6 勝",
+      "specialEffects": 5,
+      "notes": "引入綵排橋段，交錯特效獲得極大好評",
+      "pitcherStats": {
+        "innings": 1,
+        "plateAppearances": 3,
+        "pitchCount": 9,
+        "strikes": 7,
+        "hits": 0,
+        "homeRuns": 0,
+        "walks": 0,
+        "intentionalWalks": 0,
+        "hitByPitch": 0,
+        "strikeouts": 2,
+        "wildPitches": 0,
+        "balks": 0,
+        "runs": 0,
+        "earnedRuns": 0,
+        "errors": 0,
+        "era": 0.00,
+        "whip": 0.78
+      }
+    }
+  ],
+  "lastUpdated": "2025-05-06T12:00:00Z",
+  "version": "1.0.0"
+}
