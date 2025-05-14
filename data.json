@@ -85,9 +85,38 @@
         "errors": 0,
         "era": 0.00,
         "whip": 0.78
+
+    },
+    {
+      "id": 4,
+      "operatorName": "外野球迷",
+      "date": "2025-05-14",
+      "gameId": "96",
+      "opponent": "富邦悍將",
+      "outcome": "6:4 勝",
+      "specialEffects": 5,
+      "notes": "外野球迷手機自製燈光秀，一顆「燈」兩萬多設備費其實挺高的？",
+      "pitcherStats": {
+        "innings": 1,
+        "plateAppearances": 4,
+        "pitchCount": 20,
+        "strikes": 13,
+        "hits": 1,
+        "homeRuns": 0,
+        "walks": 0,
+        "intentionalWalks": 0,
+        "hitByPitch": 0,
+        "strikeouts": 1,
+        "wildPitches": 0,
+        "balks": 0,
+        "runs": 0,
+        "earnedRuns": 0,
+        "errors": 0,
+        "era": 0.00,
+        "whip": 0.81
       }
     }
   ],
-  "lastUpdated": "2025-05-06T12:00:00Z",
+  "lastUpdated": "2025-05-14T16:26:00Z",
   "version": "1.0.0"
 }
