@@ -86,8 +86,37 @@
         "era": 0.00,
         "whip": 0.78
      }
+    },
+    {
+      "id": 4,
+      "operatorName": "外野球迷",
+      "date": "2025-05-14",
+      "gameId": "96",
+      "opponent": "富邦悍將",
+      "outcome": "6:4 勝",
+      "specialEffects": 5,
+      "notes": "雖然不在澄清湖，但紀念一下首度<a href='https://www.threads.com/@peiyunosk/post/DJow0EIR1z-?xmt=AQF0xhN1s2d_rYmEzeMzvctBhbQbnYCrtfkafjRiE5V8FA'>應援團燈光秀</a>，充滿養成系玩家的愛。",
+      "pitcherStats": {
+        "innings": 1,
+        "plateAppearances": 4,
+        "pitchCount": 20,
+        "strikes": 13,
+        "hits": 1,
+        "homeRuns": 0,
+        "walks": 0,
+        "intentionalWalks": 0,
+        "hitByPitch": 0,
+        "strikeouts": 1,
+        "wildPitches": 0,
+        "balks": 0,
+        "runs": 0,
+        "earnedRuns": 0,
+        "errors": 0,
+        "era": 0.00,
+        "whip": 0.81
+     }
     }
   ],
-  "lastUpdated": "2025-05-14T16:26:00Z",
+  "lastUpdated": "2025-05-15T16:28:00Z",
   "version": "1.0.0"
 }
