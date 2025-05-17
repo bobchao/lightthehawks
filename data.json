@@ -115,8 +115,37 @@
         "era": 0.00,
         "whip": 0.81
      }
+    },
+    {
+      "id": 5,
+      "operatorName": "74 許育銘",
+      "date": "2025-05-17",
+      "gameId": "103",
+      "opponent": "統一7-11獅",
+      "outcome": "8:7 敗",
+      "specialEffects": 5,
+      "notes": "許育銘再度擔任燈控師，雞舍加裝了多隻手燈，場上更有野生球迷燈控師以手機相助。最後結果不若人意但仍是成長的養分，Good Game.",
+      "pitcherStats": {
+        "innings": 1,
+        "plateAppearances": 7,
+        "pitchCount": 30,
+        "strikes": 17,
+        "hits": 2,
+        "homeRuns": 1,
+        "walks": 2,
+        "intentionalWalks": 0,
+        "hitByPitch": 0,
+        "strikeouts": 1,
+        "wildPitches": 1,
+        "balks": 0,
+        "runs": 3,
+        "earnedRuns": 3,
+        "errors": 0,
+        "era": 1.47,
+        "whip": 0.98
+     }
     }
   ],
-  "lastUpdated": "2025-05-15T16:28:00Z",
+  "lastUpdated": "2025-05-17T17:49:00Z",
   "version": "1.0.0"
 }
