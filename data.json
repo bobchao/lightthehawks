@@ -144,8 +144,37 @@
         "era": 1.47,
         "whip": 0.98
      }
-    }
+    },
+    {
+      "id": 5,
+      "operatorName": "74 許育銘",
+      "date": "2025-05-22",
+      "gameId": "112",
+      "opponent": "樂天桃猿",
+      "outcome": "4:6 勝",
+      "specialEffects": 4,
+      "notes": "好像又是許育銘，雞柳條遲到錯失開門時機。雞舍之名已經正式獲得轉播的主播認可。",
+      "pitcherStats": {
+        "innings": 1,
+        "plateAppearances": 3,
+        "pitchCount": 11,
+        "strikes": 8,
+        "hits": 0,
+        "homeRuns": 0,
+        "walks": 0,
+        "intentionalWalks": 0,
+        "hitByPitch": 0,
+        "strikeouts": 1,
+        "wildPitches": 0,
+        "balks": 0,
+        "runs": 0,
+        "earnedRuns": 0,
+        "errors": 0,
+        "era": 1.33,
+        "whip": 0.98
+     }
+    },
   ],
-  "lastUpdated": "2025-05-17T17:49:00Z",
+  "lastUpdated": "2025-05-21T17:05:00Z",
   "version": "1.0.0"
 }
